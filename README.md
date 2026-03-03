@@ -6,6 +6,9 @@ First, run the development server:
 
 ```bash
 npm run dev
+
+#buildar o next
+npx create-next-app@latest my-site
 # or
 yarn dev
 # or
